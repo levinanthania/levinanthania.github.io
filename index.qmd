@@ -1,6 +1,6 @@
 # Hai, apa kabar? {.unnumbered}
 
-![About Me](images/bubur.png){width=100%}
+![About Me](images/bubur.jpg){width=100%}
 
 Halo! Nama saya Levina Nathania Bunardi, asal Jakarta, dan saya seorang mahasiswa STI STEI-K yang saat ini sedang menempuh semester 3. Saya memiliki ketertarikan besar pada dunia teknologi dan pengembangan diri, khususnya dalam memahami bagaimana teknologi bisa membantu kehidupan sehari-hari jadi lebih efisien dan bermanfaat. Selama perkuliahan, saya berusaha untuk terus belajar, beradaptasi, dan mengasah kemampuan berpikir kritis maupun kolaboratif.
 
