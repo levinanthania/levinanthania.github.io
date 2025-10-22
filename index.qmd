@@ -1,4 +1,4 @@
-# Hai, apa kabar? {.unnumbered}
+# Hai, udah sarapan? {.unnumbered}
 
 ![About Me](images/bubur.jpg){width=100%}
 
