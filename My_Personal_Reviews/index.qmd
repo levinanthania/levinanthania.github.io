@@ -1,53 +1,107 @@
 ## UTS-5 My Personal Reviews
 
-Nama Penulis: Levina Nathania Bunardi
-Penilai: Evaluasi Mandiri
+---
+title: "UTS-5 — My Personal Reviews"
+author: "Levina Nathania Bunardi"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+---
 
-Gambaran Umum
+# My Personal Reviews
 
-Portfolio UTS ini disusun dengan baik dan mencerminkan refleksi diri yang matang. Seluruh komponen yang diminta, yaitu All About Me, My Songs for You, My Stories for You, My SHAPE, dan My Personal Reviews, tersaji dengan runtut dan saling melengkapi. Website memiliki navigasi yang jelas serta gaya bahasa yang lembut, reflektif, dan konsisten. Secara keseluruhan, karya ini menunjukkan proses pertumbuhan pribadi yang alami dari seorang mahasiswa semester tiga yang sedang mengenali potensi serta arah pengembangan dirinya.
+**Nama Penulis:** Levina Nathania Bunardi  
+**Penilai:** Evaluasi Mandiri  
 
-Penilaian per Bagian (Berdasarkan Rubrik)
-UTS 1: All About Me
-Orisinalitas: 4 – Tulisan memperlihatkan kejujuran diri dan terasa natural tanpa dibuat-buat.
-Keterlibatan: 4 – Gaya narasi ringan dan mudah diikuti, meskipun bisa diperkuat dengan contoh nyata dari kehidupan kampus.
-Humor: 3 – Nada tulisan reflektif, namun tetap hangat dan mudah didekati.
-Wawasan: 5 – Memberikan pandangan yang jelas tentang perkembangan diri melalui proses belajar dan adaptasi.
-Total: 16/20 (80%)
-Catatan Perbaikan: Dapat menambahkan pengalaman spesifik dari kegiatan kampus untuk memperkuat keterhubungan antara refleksi dan realita.
+---
 
-UTS 2: My Songs for You
-Orisinalitas: 5 – Puisi yang terinspirasi dari lagu Membasuh menampilkan interpretasi pribadi yang kuat dan penuh makna.
-Keterlibatan: 5 – Bahasa puitisnya halus dan mengalir, menciptakan kesan emosional yang mendalam.
-Humor: N/A – Karya bersifat reflektif dan emosional.
-Inspirasi: 5 – Menyampaikan pesan tulus tentang kasih, luka, dan keteguhan hati dengan cara yang sederhana namun menyentuh.
-Total: 18/20 (90%)
-Catatan Perbaikan: Menambahkan pengantar singkat mengenai alasan pemilihan lagu dapat memperkuat konteks dan relevansi puisi.
+## Gambaran Umum
 
-UTS 3: My Stories for You
-Orisinalitas: 5 – Cerita pengalaman di Malang terasa autentik dan disampaikan dengan detail yang hidup.
-Keterlibatan: 5 – Deskripsi suasana, emosi, dan interaksi ditulis dengan apik, membuat pembaca ikut larut dalam cerita.
-Pengembangan Narasi: 5 – Struktur narasi lengkap, dengan alur yang runtut dari awal hingga refleksi penutup.
-Inspirasi: 4 – Cerita menyampaikan pesan hangat tentang kebersamaan, rasa syukur, dan makna sederhana dalam pertemuan.
-Total: 19/20 (95%)
-Catatan Perbaikan: Dapat menambahkan refleksi pribadi tambahan tentang bagaimana pengalaman tersebut memengaruhi pandangan atau semangat belajar.
+Portfolio UTS ini disusun dengan baik dan mencerminkan refleksi diri yang matang.  
+Seluruh komponen yang diminta — **All About Me**, **My Songs for You**, **My Stories for You**, **My SHAPE**, dan **My Personal Reviews** — tersaji dengan runtut dan saling melengkapi.  
 
-UTS 4: My SHAPE
-Orisinalitas: 5 – Analisis SHAPE dikembangkan dengan refleksi yang jujur dan relevan dengan pengalaman kuliah.
-Keterlibatan: 5 – Setiap aspek SHAPE dijelaskan dengan jelas dan terasa personal.
-Pengembangan Narasi: 5 – Terdapat kesinambungan yang baik antara kekuatan, minat, kemampuan, kepribadian, dan pengalaman.
-Inspirasi: 5 – Tulisan ini menunjukkan kedewasaan berpikir dan kesadaran diri yang kuat terhadap proses pertumbuhan pribadi.
-Total: 20/20 (100%)
-Catatan Perbaikan: Dapat ditambahkan kesimpulan singkat yang merangkum bagaimana semua aspek SHAPE membentuk identitas diri saat ini.
+Website memiliki navigasi yang jelas serta gaya bahasa yang lembut, reflektif, dan konsisten.  
+Secara keseluruhan, karya ini menunjukkan proses pertumbuhan pribadi yang alami dari seorang mahasiswa semester tiga yang sedang mengenali potensi serta arah pengembangan dirinya.  
 
-Rekapitulasi Skor
-UTS 1: 80%
-UTS 2: 90%
-UTS 3: 95%
-UTS 4: 100%
+---
 
-Rencana Perbaikan
-UTS 1 (My Stories for You): Menambahkan contoh konkret dari pengalaman kampus atau kegiatan akademik.
-UTS 2 (My Song for You): Menyertakan kalimat pembuka yang menjelaskan hubungan personal dengan lagu yang dipilih.
-UTS 3 (My Shapes): Menambahkan refleksi singkat tentang pengaruh pengalaman terhadap pengembangan diri.
-UTS 4 (My Personal Reviews): Memberi paragraf penutup yang mengaitkan semua elemen SHAPE menjadi gambaran diri yang utuh.
+## Penilaian per Bagian (Berdasarkan Rubrik)
+
+### 🟣 UTS 1 — All About Me
+
+- **Orisinalitas:** 4 – Tulisan memperlihatkan kejujuran diri dan terasa natural tanpa dibuat-buat.  
+- **Keterlibatan:** 4 – Gaya narasi ringan dan mudah diikuti, meskipun bisa diperkuat dengan contoh nyata dari kehidupan kampus.  
+- **Humor:** 3 – Nada tulisan reflektif, namun tetap hangat dan mudah didekati.  
+- **Wawasan:** 5 – Memberikan pandangan yang jelas tentang perkembangan diri melalui proses belajar dan adaptasi.  
+
+**Total:** 16/20 (**80%**)  
+
+**Catatan Perbaikan:**  
+Dapat menambahkan pengalaman spesifik dari kegiatan kampus untuk memperkuat keterhubungan antara refleksi dan realita.  
+
+---
+
+### 🟣 UTS 2 — My Songs for You
+
+- **Orisinalitas:** 5 – Puisi yang terinspirasi dari lagu *Membasuh* menampilkan interpretasi pribadi yang kuat dan penuh makna.  
+- **Keterlibatan:** 5 – Bahasa puitisnya halus dan mengalir, menciptakan kesan emosional yang mendalam.  
+- **Humor:** N/A – Karya bersifat reflektif dan emosional.  
+- **Inspirasi:** 5 – Menyampaikan pesan tulus tentang kasih, luka, dan keteguhan hati dengan cara yang sederhana namun menyentuh.  
+
+**Total:** 18/20 (**90%**)  
+
+**Catatan Perbaikan:**  
+Menambahkan pengantar singkat mengenai alasan pemilihan lagu dapat memperkuat konteks dan relevansi puisi.  
+
+---
+
+### 🟣 UTS 3 — My Stories for You
+
+- **Orisinalitas:** 5 – Cerita pengalaman di Malang terasa autentik dan disampaikan dengan detail yang hidup.  
+- **Keterlibatan:** 5 – Deskripsi suasana, emosi, dan interaksi ditulis dengan apik, membuat pembaca ikut larut dalam cerita.  
+- **Pengembangan Narasi:** 5 – Struktur narasi lengkap, dengan alur yang runtut dari awal hingga refleksi penutup.  
+- **Inspirasi:** 4 – Cerita menyampaikan pesan hangat tentang kebersamaan, rasa syukur, dan makna sederhana dalam pertemuan.  
+
+**Total:** 19/20 (**95%**)  
+
+**Catatan Perbaikan:**  
+Dapat menambahkan refleksi pribadi tambahan tentang bagaimana pengalaman tersebut memengaruhi pandangan atau semangat belajar.  
+
+---
+
+### 🟣 UTS 4 — My SHAPE
+
+- **Orisinalitas:** 5 – Analisis SHAPE dikembangkan dengan refleksi yang jujur dan relevan dengan pengalaman kuliah.  
+- **Keterlibatan:** 5 – Setiap aspek SHAPE dijelaskan dengan jelas dan terasa personal.  
+- **Pengembangan Narasi:** 5 – Terdapat kesinambungan yang baik antara kekuatan, minat, kemampuan, kepribadian, dan pengalaman.  
+- **Inspirasi:** 5 – Tulisan ini menunjukkan kedewasaan berpikir dan kesadaran diri yang kuat terhadap proses pertumbuhan pribadi.  
+
+**Total:** 20/20 (**100%**)  
+
+**Catatan Perbaikan:**  
+Dapat ditambahkan kesimpulan singkat yang merangkum bagaimana semua aspek SHAPE membentuk identitas diri saat ini.  
+
+---
+
+## Rekapitulasi Skor
+
+| Bagian | Skor | Persentase |
+|:--------|:------:|:------------:|
+| UTS 1 | 16/20 | **80%** |
+| UTS 2 | 18/20 | **90%** |
+| UTS 3 | 19/20 | **95%** |
+| UTS 4 | 20/20 | **100%** |
+
+---
+
+## Rencana Perbaikan
+
+- **UTS 1 (All About Me):** Menambahkan contoh konkret dari pengalaman kampus atau kegiatan akademik.  
+- **UTS 2 (My Songs for You):** Menyertakan kalimat pembuka yang menjelaskan hubungan personal dengan lagu yang dipilih.  
+- **UTS 3 (My Stories for You):** Menambahkan refleksi singkat tentang pengaruh pengalaman terhadap pengembangan diri.  
+- **UTS 4 (My SHAPE):** Memberi paragraf penutup yang mengaitkan semua elemen SHAPE menjadi gambaran diri yang utuh.  
+
+---
+
