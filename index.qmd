@@ -1,4 +1,4 @@
-# Halo {.unnumbered}
+# Hai, apa kabar? {.unnumbered}
 
 ![About Me](images/Foto_18224057_Levina Nathania Bunardi.png){width=100%}
 

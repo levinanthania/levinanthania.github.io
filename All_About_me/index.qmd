@@ -1,6 +1,6 @@
 # UTS-1 All About Me
 
-![About Me](../images/Foto_18224057_Levina Nathania Bunardi.png){width=500%}
+![Pieces of My Journey](../images/Foto_18224057_Levina Nathania Bunardi.png){width=300%}
 
 Halo! Nama saya Levina Nathania Bunardi, asal Jakarta, dan saya seorang mahasiswa Sistem dan Teknologi Informasi ITB yang saat ini sedang menempuh semester 3. Saya memiliki ketertarikan besar terhadap dunia teknologi dan pengembangan diri, terutama dalam memahami bagaimana teknologi dapat membantu kehidupan sehari-hari menjadi lebih efisien, bermakna, dan manusiawi. Selama perkuliahan, saya berusaha untuk terus belajar dan beradaptasi, baik di ruang kelas maupun di luar, sambil mengasah kemampuan berpikir kritis, kolaboratif, dan empatik agar dapat menjadi pribadi yang tidak hanya unggul secara akademik, tetapi juga peka terhadap orang lain.
 
