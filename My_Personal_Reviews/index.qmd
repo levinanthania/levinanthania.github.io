@@ -1,5 +1,4 @@
 ## UTS-5 My Personal Reviews
-Berikut cara saya melakukan review: mengguan chatGPT, saya mengattach [file promt ChatGPT](skor_uts.pdf), disertai perintah :"self assess uts-1 sanpai uts-5 dari URL 'https://ii-2100.github.io/all-about-me/'"  
 
 Nama Penulis: Levina Nathania Bunardi
 Penilai: Evaluasi Mandiri

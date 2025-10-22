@@ -1,11 +1,5 @@
 # UTS-2 My Songs for You
 
-Post Wedding Kawah Putih
-Lirik by Armein Z. R. Langi
-Music: SUNO
-
-{{< video https://youtu.be/KWthEImJ9mY?si=iUV8Ghhj0R3gKQyZ>}}, with lyrics
-
 Kita datang dengan luka yang belum kering,
 membawa sisa malam yang tak sempat diobati.
 Namun di antara retak dan diam yang saling mengerti,
