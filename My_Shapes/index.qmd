@@ -1,7 +1,7 @@
 # UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
 
 ---
-title: "UTS-4 — My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)"
+title: "UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)"
 author: "Levina Nathania Bunardi"
 format:
   html:

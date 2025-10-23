@@ -1,7 +1,7 @@
 ## UTS-5 My Personal Reviews
 
 ---
-title: "UTS-5 — My Personal Reviews"
+title: "UTS-5 My Personal Reviews"
 author: "Levina Nathania Bunardi"
 format:
   html:
